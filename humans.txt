@@ -1,0 +1,13 @@
+/* "I know places [this little easter egg] won't be found" */
+
+/* TEAM */
+	Founder: "a.r."
+	Blogathon: @rayraykoo
+	
+	Developer: Gabriel H.
+	Blogathon: @genosmrpg7899
+
+/* SITE */
+	Last update: 2023/12/26
+	Standards: HTML4, CSS2, JS
+	Software: Apache, Notepad++

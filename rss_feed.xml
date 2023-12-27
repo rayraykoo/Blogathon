@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Blogathon RSS</title>
+  <link>https://blogathon.neocities.org</link>
+  <description></description>
+  
+  <!-- All posts begin here -->
+  <item>
+    <title>Blogathon Post</title>
+	<author>Webmaster</author>
+    <description>Hello!</description>
+	<pubDate>13 Dec 1989 12:00 AM</pubDate>
+  </item>
+  
+  <!--
+	SAMPLE POST SYNTAX GOES AS FOLLOWS
+	MAKE SURE THE DATETIME FORMAT IS FOLLOWED STRICTLY
+	THIS ENSURES RSS FUNCTIONALITY
+	IMAGE TAG OPTIONAL, TAKES IN IMAGE URL
+	
+	<item>
+		<title>Blogathon Post</title>
+		<author>AUTHORNAME</author>
+		<description>POSTCONTENT</description>
+		<pubDate>13 Dec 1989 12:00 AM</pubDate>
+		<image>IMAGE URL GOES HERE</image>
+	</item>
+  -->
+</channel>
+
+</rss>
